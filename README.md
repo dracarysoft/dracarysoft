@@ -21,6 +21,8 @@ Ambos somos Tecnólogos Superiores en Desarrollo de Software.
 | **Luis Castillo** | [github.com/luiscr918](https://github.com/luiscr918) |
 | **Katherine Pantoja** | [github.com/katypaola11](https://github.com/katypaola11) |
 
+> 🔒 Notarás que este perfil muestra 0 repositorios: trabajamos con repositorios privados dentro de nuestra organización para proteger el código de nuestros clientes.
+
 ---
 
 ## 👥 Quiénes somos
